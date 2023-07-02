@@ -4,7 +4,9 @@ Telecom churn prediction is a critical task in the telecommunications industry. 
 
 ### Files Description
 Telecom churn prediction with PySpark.ipynb: Python notebook for the project
+
 churn-bigml-80.csv: training dataset
+
 churn-bigml-20.csv: testing dataset
 
 ### License
